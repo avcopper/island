@@ -2,7 +2,7 @@
   "windowWidth": 1400,
   "windowHeight": 800,
   "rowsCount": 20,
-  "colsCount": 40,
+  "colsCount": 30,
   "terminationCondition": 4,
   "maxCycles": 100,
   "childCount": 1,

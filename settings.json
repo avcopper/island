@@ -1,0 +1,27 @@
+{
+  "windowWidth": 1400,
+  "windowHeight": 800,
+  "rowsCount": 20,
+  "colsCount": 40,
+  "terminationCondition": 4,
+  "maxCycles": 100,
+  "childCount": 1,
+  "animalStartCount": {
+    "Boar": 600,
+    "Rabbit": 600,
+    "Caterpillar": 3000,
+    "Bear": 600,
+    "Deer": 600,
+    "Fox": 600,
+    "Plant": 3000,
+    "Mouse": 600,
+    "Boa": 600,
+    "Horse": 600,
+    "Duck": 600,
+    "Sheep": 600,
+    "Goat": 600,
+    "Wolf": 600,
+    "Eagle": 600,
+    "Buffalo": 600
+  }
+}

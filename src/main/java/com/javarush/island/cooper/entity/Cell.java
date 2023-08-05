@@ -4,11 +4,10 @@ import java.util.Map;
 import java.util.List;
 import java.util.HashMap;
 import java.util.ArrayList;
-
 import com.javarush.island.cooper.constants.AnimalConstants;
 
 public class Cell {
-    private Coordinates coordinates;
+    private Coordinates coordinates; // координаты клетки
     private List<Unit> unitList = new ArrayList<>(); // список животных на клетке
     private Map<String, Integer> countAnimals = new HashMap<>(); // количество животных каждого вида на клетке
     {
